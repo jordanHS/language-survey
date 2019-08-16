@@ -5,3 +5,6 @@ h1 {
 .jumbotron {
   background-color: turquoise;
 }
+#JavaScript {
+  display: none;
+}
