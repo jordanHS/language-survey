@@ -5,6 +5,15 @@ h1 {
 .jumbotron {
   background-color: turquoise;
 }
-#JavaScript {
+#result-one {
+  display: none;
+}
+#result-two{
+  display: none;
+}
+#result-three {
+  display: none;
+}
+#score {
   display: none;
 }
